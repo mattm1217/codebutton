@@ -1,0 +1,16 @@
+/* TEAM */
+
+Name: Matthew McCoy
+Title: Developer
+Twitter: mmccooyyy
+
+/* THANKS */
+
+Name: WordPress
+Website: http://wordpress.org
+For: Making WordPress
+
+/* META */
+Updated: 2017/5/3
+Software: WordPress
+See: http://humanstxt.org/
