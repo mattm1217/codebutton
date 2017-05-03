@@ -1,12 +1,12 @@
 Code Button
 ===
-Contributors: mmccooyyy 
-Tags: content, code 
-Requires at least: 1.2.1 
-Tested up to: 4.2 
-Stable tag: trunk 
-License: GPLv2 or later 
-License URI: http://www.gnu.org/licenses/gpl-2.0.html 
+Contributors: mmccooyyy  
+Tags: content, code  
+Requires at least: 1.2.1  
+Tested up to: 4.2  
+Stable tag: trunk  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
  
 A plugin that adds a code snippet button to the Wordpress TinyMCE editor.
 
