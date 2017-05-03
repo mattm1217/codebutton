@@ -13,7 +13,7 @@ A plugin that adds a code snippet button to the Wordpress TinyMCE editor.
 Description
 ---
 
-A plugin that adds a code snippet button to the Wordpress TinyMCE editor.  It inserts "<pre><code></code></pre>$nbsp;" into the post and sticks the cursor inbetween the two <code> tags allowing the user to then type in the code block.  Wordpress already has some minor styling for this built in, but this plugin will also work with code stylers like Prism and with code escapers (which are highly recommened) like Smart Code Escape.
+A plugin that adds a code snippet button to the Wordpress TinyMCE editor.  It inserts ```<pre><code></code></pre>$nbsp;``` into the post and sticks the cursor inbetween the two `<code>` tags allowing the user to then type in the code block.  Wordpress already has some minor styling for this built in, but this plugin will also work with code stylers like Prism and with code escapers (which are highly recommened) like Smart Code Escape.
 
 Installation
 ---
